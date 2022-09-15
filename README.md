@@ -8,3 +8,6 @@ This idea is particularly interesting to me since I have read lots of articles r
 
 # Comment 
 Wonderful Article!! Loved reading it! - Dev Kalavadiya
+
+Github CoPilot is crazy! I've use one of the AI code assistant in JetBrain called Tabnine. Though it generates some weird names sometimes, it still boost up the speed in coding especially when you are writing a large project with thousands of variables. GitHub CoPilot is totally on the next level (and expensive :( ). It can save lots of trivial work and avoid typos. I often think the past courses I've taken, and how it would be different if we introduce GitHub CoPilot instead of some rudimentary text editors or IDEs like SubLime or Eclipse. I think with such AI code assistant tools, more and more people who never know CS before can gain interest in CS. - Ashley Luo
+
