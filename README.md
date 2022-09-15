@@ -1,4 +1,4 @@
-[Article](https://github.com/agiledev-students-fall2022/git-workflow-practice-zw2700.git)
+[Article](https://www.zdnet.com/article/the-future-of-the-web-will-need-a-different-sort-of-software-developer/)
 
 ## What Interests Me About The Article
 
